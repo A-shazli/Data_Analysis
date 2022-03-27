@@ -3,4 +3,5 @@ A project where a movie data set is investigated. Steps, starting from data wran
 
 <h1>Visuals that proved to be usefull.<h1>
 
- <img src="img_snowtops.jpg" class="w3-round" alt="Norway"> 
+ <img src=![image](https://user-images.githubusercontent.com/61319952/160281195-464d8ca2-d21e-4f80-a8a3-9c4c03c97c9e.png)  alt="Release date vs number of movies"> 
+
